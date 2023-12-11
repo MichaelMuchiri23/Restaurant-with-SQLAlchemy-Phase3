@@ -1,10 +1,3 @@
 {
-    "sqltools.connections": [
-        {
-            "previewLimit": 50,
-            "driver": "SQLite",
-            "name": "Database",
-            "database": "\\\\wsl.localhost\\Ubuntu\\home\\mike\\Development\\code\\Mod3\\code-challenge-3\\Database.db"
-        }
-    ]
+    "sqltools.connections": []
 }
